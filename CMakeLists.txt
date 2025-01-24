@@ -44,7 +44,7 @@ if (PICO_SDK_VERSION_STRING VERSION_LESS "1.4.0")
 endif()
 
 
-project(${PROJECT_NAME})
+project(modxo_bsx)
 
 if(${DEBUG_PRINTS} MATCHES 1)
     add_definitions( -DDEBUG_PRINTS )
