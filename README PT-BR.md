@@ -123,6 +123,18 @@ Os seguintes passos não são necessários se você pretende usar o PrometheOS, 
 
 ---
 
+#### BSX NOVA
+
+   ![BSX Nova JST Wiring](images/Nova_JST_Layouts.png)
+
+---
+
+#### BSX MINI
+
+   ![BSX Mini JST Wiring](images/Mini_JST_Layouts.png)
+
+---
+
 ## Instruções de Compilação do Firmware
 
 ### Windows

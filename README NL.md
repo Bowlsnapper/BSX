@@ -121,6 +121,18 @@ Er is geen speciale hardware of ingewikkelde tools nodig om Modxo op een compati
 
 ---
 
+#### BSX NOVA
+
+   ![BSX Nova JST Wiring](images/Nova_JST_Layouts.png)
+
+---
+
+#### BSX MINI
+
+   ![BSX Mini JST Wiring](images/Mini_JST_Layouts.png)
+
+---
+
 ## Instructies voor het bouwen van firmware
 
 ### Windows
