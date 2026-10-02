@@ -2,9 +2,9 @@ name: Bundle Modxo
 
 on:
   push:
-    branches: [ "main", "custom" ]
+    branches: [ "bsx" ]
   pull_request:
-    branches: [ "main", "custom" ]
+    branches: [ "bsx" ]
   workflow_dispatch: {}
   
 jobs:
